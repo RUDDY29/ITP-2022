@@ -28,7 +28,7 @@ git clone https://github.com/RUDDY29/ITP-2022.git
 ```
 Project Initialize 
 ```
-cd assignment-folder-1
+cd ASSIGNMENT_01
 ```
 
 
