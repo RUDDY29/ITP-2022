@@ -1,4 +1,4 @@
-# ITP-Assignment-1(2022)
+# ITP-Assignment-2(2022)
 
 **Team Members**
 |   Enrollment No.  |   Name                 | GithubId        |
